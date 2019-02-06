@@ -1,4 +1,4 @@
-# IEC_2016
+# IEC_2016_study
 
 This repo contains replication materials for the article: 
 
